@@ -1,0 +1,18 @@
+{
+	"name": "UTM BUTTS",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Replaces Google Analytics (UTM) tracking tokens in URLs.",
+    "homepage_url": "https://github.com/brianshumate/utm-butts",
+	"icons" :{
+		"48" : "icon-48.png",
+		"128" : "icon-128.png"
+	},
+	"background": {
+		"scripts": ["utm_butts.js"]
+	},
+	"permissions": [
+		"tabs"
+	],
+    "offline_enabled": true
+}
