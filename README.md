@@ -3,8 +3,8 @@
 ![](https://raw.githubusercontent.com/brianshumate/utm-butts/master/src/icon-128.png)
 
 This is an extension for Chromium based web browsers that replaces all
-Urchin Traffic Monitor (UTM) analytic tracking tokens in any URL with a
-single one:
+inbound Urchin Traffic Monitor (UTM) analytic tracking tokens 
+(used by Google Analytics) in any URL with a single one:
 
 ```
 ?utm_source=BUTTS
